@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">flutter_module_android</string>
+    <string name="hello">Hello</string>
+    <string name="world">World</string>
+    <string name="button">push to flutter module</string>
+</resources>
